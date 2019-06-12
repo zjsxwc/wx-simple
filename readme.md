@@ -1,3 +1,10 @@
+
+
+wxWidgets tutorial  http://zetcode.com/gui/wxwidgets/
+
+
+
+
 https://wiki.wxwidgets.org/CMake
 
 How to use it with wxWidgets ?
