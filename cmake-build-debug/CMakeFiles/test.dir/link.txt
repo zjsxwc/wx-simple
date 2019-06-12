@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -g   CMakeFiles/test.dir/main.cpp.o CMakeFiles/test.dir/simple.cpp.o  -o test -L/usr/lib/x86_64-linux-gnu -pthread -lwx_gtk2u_core-3.0 -lwx_baseu-3.0 
