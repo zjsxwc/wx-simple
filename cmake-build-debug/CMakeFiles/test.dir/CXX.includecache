@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+/home/wangchao/CLionProjects/test/main.cpp
+main.h
+/home/wangchao/CLionProjects/test/main.h
+simple.h
+/home/wangchao/CLionProjects/test/simple.h
+
+/home/wangchao/CLionProjects/test/main.h
+wx/wx.h
+-
+
 /home/wangchao/CLionProjects/test/simple.cpp
 simple.h
 /home/wangchao/CLionProjects/test/simple.h

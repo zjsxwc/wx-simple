@@ -37,6 +37,7 @@
 					<Add option="-D_FILE_OFFSET_BITS=64"/>
 					<Add option="-DWXUSINGDLL"/>
 					<Add option="-D__WXGTK__"/>
+					<Add directory="/home/wangchao/CLionProjects/test/."/>
 					<Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-3.0"/>
 					<Add directory="/usr/include/wx-3.0"/>
 					<Add directory="/usr/include/c++/6"/>
@@ -65,6 +66,7 @@
 					<Add option="-D_FILE_OFFSET_BITS=64"/>
 					<Add option="-DWXUSINGDLL"/>
 					<Add option="-D__WXGTK__"/>
+					<Add directory="/home/wangchao/CLionProjects/test/."/>
 					<Add directory="/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-3.0"/>
 					<Add directory="/usr/include/wx-3.0"/>
 					<Add directory="/usr/include/c++/6"/>

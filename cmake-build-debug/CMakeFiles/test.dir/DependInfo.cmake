@@ -18,6 +18,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../."
   "/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-3.0"
   "/usr/include/wx-3.0"
   )

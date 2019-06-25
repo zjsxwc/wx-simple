@@ -1,8 +1,9 @@
 /home/wangchao/Documents/work/clion-2019.1.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/wangchao/CLionProjects/test
-wxWidgets_INCLUDE_DIRS/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-3.0/usr/include/wx-3.0
-wxWidgets_USE_FILE/home/wangchao/Documents/work/clion-2019.1.4/bin/cmake/linux/share/cmake-3.14/Modules/UsewxWidgets.cmake
-wxWidgets_LIBRARIES-L/usr/lib/x86_64-linux-gnu-pthread-lwx_gtk2u_core-3.0-lwx_baseu-3.0
-wxWidgets_CONFIG_EXECUTABLE/usr/bin/wx-config
+SRC_LIST ./main.cpp;./simple.cpp
+wxWidgets_INCLUDE_DIRS /usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-3.0;/usr/include/wx-3.0
+wxWidgets_USE_FILE /home/wangchao/Documents/work/clion-2019.1.4/bin/cmake/linux/share/cmake-3.14/Modules/UsewxWidgets.cmake
+wxWidgets_LIBRARIES -L/usr/lib/x86_64-linux-gnu;-pthread;;;-lwx_gtk2u_core-3.0;-lwx_baseu-3.0
+wxWidgets_CONFIG_EXECUTABLE /usr/bin/wx-config
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/wangchao/CLionProjects/test/cmake-build-debug
